@@ -1,0 +1,46 @@
+﻿@model IEnumerable<blogApp.Models.Post>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<h2>Index</h2>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PostId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PostHeading)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PostUrl)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PostId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PostHeading)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PostUrl)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.PostId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.PostId">Details</a> |
+                <a asp-route="del" asp-route-id="@item.PostId">Delete</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

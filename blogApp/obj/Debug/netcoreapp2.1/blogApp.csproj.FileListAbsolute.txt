@@ -1,0 +1,72 @@
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\bin\Debug\netcoreapp2.1\blogApp.deps.json
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\bin\Debug\netcoreapp2.1\blogApp.runtimeconfig.json
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\bin\Debug\netcoreapp2.1\blogApp.runtimeconfig.dev.json
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\bin\Debug\netcoreapp2.1\blogApp.dll
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\bin\Debug\netcoreapp2.1\blogApp.pdb
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\bin\Debug\netcoreapp2.1\blogApp.Views.dll
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\bin\Debug\netcoreapp2.1\blogApp.Views.pdb
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.csprojAssemblyReference.cache
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.csproj.CoreCompileInputs.cache
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.RazorAssemblyInfo.cache
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.RazorAssemblyInfo.cs
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.AssemblyInfoInputs.cache
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.AssemblyInfo.cs
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.RazorTargetAssemblyInfo.cache
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.dll
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.pdb
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.csproj.CopyComplete
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.TagHelpers.input.cache
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.TagHelpers.output.cache
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.RazorCoreGenerate.cache
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.RazorTargetAssemblyInfo.cs
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.Views.pdb
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\post\Index.g.cshtml.cs
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\post\Details.g.cshtml.cs
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\post\Create.g.cshtml.cs
+C:\Users\ashish.rawat\source\repos\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\post\Edit.g.cshtml.cs
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\bin\Debug\netcoreapp2.1\blogApp.deps.json
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\bin\Debug\netcoreapp2.1\blogApp.runtimeconfig.json
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\bin\Debug\netcoreapp2.1\blogApp.runtimeconfig.dev.json
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\bin\Debug\netcoreapp2.1\blogApp.dll
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\bin\Debug\netcoreapp2.1\blogApp.pdb
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\bin\Debug\netcoreapp2.1\blogApp.Views.dll
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\bin\Debug\netcoreapp2.1\blogApp.Views.pdb
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.csprojAssemblyReference.cache
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.csproj.CoreCompileInputs.cache
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.RazorAssemblyInfo.cache
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.RazorAssemblyInfo.cs
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.AssemblyInfoInputs.cache
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.AssemblyInfo.cs
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.TagHelpers.input.cache
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.TagHelpers.output.cache
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.RazorCoreGenerate.cache
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\post\Create.g.cshtml.cs
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\post\Details.g.cshtml.cs
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\post\Edit.g.cshtml.cs
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\post\Index.g.cshtml.cs
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.RazorTargetAssemblyInfo.cache
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.RazorTargetAssemblyInfo.cs
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.Views.pdb
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.dll
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.pdb
+C:\Users\garima.sharma\Desktop\New folder (8)\New folder (2)\blogApp\blogApp\obj\Debug\netcoreapp2.1\blogApp.csproj.CopyComplete

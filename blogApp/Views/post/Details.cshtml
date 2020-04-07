@@ -1,0 +1,40 @@
+﻿@model blogApp.Models.Post
+
+@{
+    ViewData["Title"] = "Details";
+}
+<h2>Details</h2>
+<div>
+    <h4>Employees</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.PostId)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.PostId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.PostHeading)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.PostHeading)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.PostData)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.PostData)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.PostUrl)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.PostUrl)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.PostId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
